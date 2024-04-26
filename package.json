@@ -1,8 +1,8 @@
 {
-  "name": "test",
-  "productName": "test",
+  "name": "jpidashboard",
+  "productName": "JPIDashboard",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "JPI Dashboard Application",
   "main": ".webpack/main",
   "scripts": {
     "start": "electron-forge start",
