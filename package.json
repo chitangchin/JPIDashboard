@@ -1,0 +1,23 @@
+{
+  "name": "jpidashboard",
+  "version": "1.0.0",
+  "description": "JPI Registration App",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chitangchin/JPIDashboard.git"
+  },
+  "author": "Brandon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chitangchin/JPIDashboard/issues"
+  },
+  "homepage": "https://github.com/chitangchin/JPIDashboard#readme",
+  "dependencies": {
+    "electron": "^30.0.1"
+  }
+}
