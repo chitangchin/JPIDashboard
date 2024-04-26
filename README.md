@@ -1,6 +1,6 @@
 # JPI Dashboard Application
 
 ## Tech Stack (Fully Frontend Project)
-Electron
-React
-TypeScript
+- Electron
+- React
+- TypeScript
